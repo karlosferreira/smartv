@@ -1,0 +1,38 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
+
+############# 🎬 FILMES #############
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png" group-title="Filmes",AMC
+http://lexus.hubns.top:80/276750208/427032405/2687174
+#EXTINF:-1 tvg-id="" tvg-name="Canal Brasil" tvg-logo="https://telaviva.com.br/wp-content/uploads/2020/09/200608_PF01_Versao_5_Positiva.ai_.png" group-title="Filmes",Canal Brasil
+http://lexus.hubns.top:80/276750208/427032405/2687180
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="https://logowik.com/content/uploads/images/cinemax-yellow7289.jpg" group-title="Filmes",Cinemax
+http://lexus.hubns.top:80/276750208/427032405/2687183
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://i.pinimg.com/736x/8b/02/00/8b020050690f955ccb306cdf51324aea.jpg" group-title="Filmes",HBO
+http://lexus.hubns.top:80/276750208/427032405/2687234
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="Filmes",HBO 2
+http://lexus.hubns.top:80/276750208/427032405/2687237
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/800px-HBO_Family.svg.png" group-title="Filmes",HBO Family
+http://lexus.hubns.top:80/276750208/427032405/2687240
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/HBO_Plus_2000.svg/1280px-HBO_Plus_2000.svg.png" group-title="Filmes",HBO Plus
+http://lexus.hubns.top:80/276750208/427032405/2687246
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1280px-HBO_Signature.svg.png" group-title="Filmes",HBO Signature
+http://lexus.hubns.top:80/276750208/427032405/2687252
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Paramount_Pictures_2022_%28Blue%29.svg/800px-Paramount_Pictures_2022_%28Blue%29.svg.png" group-title="Filmes",Paramount
+http://lexus.hubns.top:80/276750208/427032405/1257050
+#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1280px-SpaceLogo.svg.png" group-title="Filmes",SPACE
+http://lexus.hubns.top:80/276750208/427032405/1257203
+
+############# 📡 CANAIS ABERTOS #############
+#EXTINF:-1 tvg-id="" tvg-name="Band" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Rede_Bandeirantes_logo_2011.svg" group-title="Canais Abertos",Band
+http://lexus.hubns.top:80/276750208/427032405/2687289
+#EXTINF:-1 tvg-id="globo.rj.br" tvg-name="GLOBO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="Canais Abertos",GLOBO
+http://lexus.hubns.top:80/276750208/427032405/1256399
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV" tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Canais Abertos",MTV
+http://lexus.hubns.top:80/276750208/427032405/1256993
+#EXTINF:-1 tvg-id="" tvg-name="Record News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/Record_News_logo_2022.svg" group-title="Canais Abertos",Record News
+http://lexus.hubns.top:80/276750208/427032405/2687796
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDETV" tvg-logo="https://static.poder360.com.br/2021/03/redetv.png" group-title="Canais Abertos",REDETV
+http://lexus.hubns.top:80/276750208/427032405/1257165
+#EXTINF:-1 tvg-id="sbt.rio.br" tvg-name="SBT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1024px-Logotipo_do_SBT.svg.png" group-title="Canais Abertos",SBT
+http://lexus.hubns.top:80/276750208/427032405/1257184
