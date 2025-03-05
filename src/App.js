@@ -7,7 +7,7 @@ function App() {
   const [currentStream, setCurrentStream] = useState(""); // Guarda a URL do canal ativo
 
   useEffect(() => {
-    fetch("/playlists/tv.m3u")
+    fetch("/playlists/live.m3u")
       .then((res) => res.text())
       .then((text) => {
         const lines = text.split("\n").map((line) => line.trim());
