@@ -1,0 +1,634 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+#EXTINF:-1 tvg-name="A&E HD" tvg-logo="http://tjtor8411.com/static/logos/canais/a%26e.png" group-title="Canais | Variedades",A&E HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71762.ts
+#EXTINF:-1 tvg-name="AgroMais HD" tvg-logo="http://www.acstatic.co/logos/canais/agromais.png" group-title="Canais | Abertos",AgroMais HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71766.ts
+#EXTINF:-1 timeshift="7" tvg-name="AMC HD" tvg-logo="http://tjtor8411.com/static/logos/canais/amc.png" group-title="Canais | Filmes e Séries",AMC HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71770.ts
+#EXTINF:-1 timeshift="7" tvg-name="Animal Planet HD" tvg-logo="http://tjtor8411.com/images/42c58ab1d6e79befc171ea4f555ca500.png" group-title="Canais | Documentários",Animal Planet HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71775.ts
+#EXTINF:-1 tvg-name="Arte 1 HD" tvg-logo="http://tjtor8411.com/static/logos/canais/arte1.png" group-title="Canais | Documentários",Arte 1 HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71779.ts
+#EXTINF:-1 timeshift="7" tvg-name="AXN HD" tvg-logo="http://tjtor8411.com/static/logos/canais/axn.png" group-title="Canais | Filmes e Séries",AXN HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71783.ts
+#EXTINF:-1 tvg-name="AXN HD [LEG]" tvg-logo="http://tjtor8411.com/static/logos/canais/axn.png" group-title="Canais | Legendados",AXN HD [LEG]
+http://tjtor8411.com:80/Osiel123/Felicidade321/90715.ts
+#EXTINF:-1 timeshift="7" tvg-name="Band News HD" tvg-logo="http://tjtor8411.com/static/logos/canais/bandnews.png" group-title="Canais | Notícias",Band News HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71791.ts
+#EXTINF:-1 timeshift="7" tvg-name="Band SP HD" tvg-logo="http://tjtor8411.com/static/logos/canais/band.png" group-title="Canais | Abertos",Band SP HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72597.ts
+#EXTINF:-1 timeshift="7" tvg-name="Band Sports HD" tvg-logo="http://tjtor8411.com/static/logos/canais/bandsports.png" group-title="Canais | Esportes",Band Sports HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71803.ts
+#EXTINF:-1 tvg-name="BIS HD" tvg-logo="http://tjtor8411.com/static/logos/canais/bis.png" group-title="Canais | Variedades",BIS HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71808.ts
+#EXTINF:-1 tvg-name="BJJ STARS HD" tvg-logo="" group-title="Canais | PPV",BJJ STARS HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/159277.ts
+#EXTINF:-1 tvg-name="Brasileirao Serie C 1 HD" tvg-logo="http://tjtor8411.com/images/d71a6a98c5c853503ec304c5f182f9b3.jpg" group-title="Canais | Campeonatos Estaduais",Brasileirao Serie C 1 HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/157408.ts
+#EXTINF:-1 tvg-name="Brasileirao Serie C 2 HD" tvg-logo="http://tjtor8411.com/images/d71a6a98c5c853503ec304c5f182f9b3.jpg" group-title="Canais | Campeonatos Estaduais",Brasileirao Serie C 2 HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/157411.ts
+#EXTINF:-1 tvg-name="Brasileirao Serie C 3 HD" tvg-logo="http://tjtor8411.com/images/d71a6a98c5c853503ec304c5f182f9b3.jpg" group-title="Canais | Campeonatos Estaduais",Brasileirao Serie C 3 HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/157414.ts
+#EXTINF:-1 timeshift="7" tvg-name="Canal Brasil HD" tvg-logo="http://tjtor8411.com/static/logos/canais/canalbrasil.png" group-title="Canais | Filmes e Séries",Canal Brasil HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71818.ts
+#EXTINF:-1 tvg-name="Canal do Boi HD" tvg-logo="http://acstatic.co/logos/canais/canaldoboi.png" group-title="Canais | Abertos",Canal do Boi HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71821.ts
+#EXTINF:-1 tvg-name="Canal Rural HD" tvg-logo="http://tjtor8411.com/images/fd9212142eedf1910dcba86a14dfdd81.png" group-title="Canais | Abertos",Canal Rural HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/178513.ts
+#EXTINF:-1 timeshift="7" tvg-name="Canal Sony HD" tvg-logo="http://tjtor8411.com/images/117e794f409519d5fd8c54fdf6bf1b37.png" group-title="Canais | Filmes e Séries",Canal Sony HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71826.ts
+#EXTINF:-1 tvg-name="Canal Sony HD [LEG]" tvg-logo="http://tjtor8411.com/static/logos/canais/sony.png" group-title="Canais | Legendados",Canal Sony HD [LEG]
+http://tjtor8411.com:80/Osiel123/Felicidade321/90712.ts
+#EXTINF:-1 timeshift="7" tvg-name="Cartoon Network HD" tvg-logo="http://tjtor8411.com/static/logos/canais/cartoon.png" group-title="Canais | Infantis",Cartoon Network HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71831.ts
+#EXTINF:-1 tvg-name="Cartoonito HD" tvg-logo="http://tjtor8411.com/static/logos/canais/boomerang.png" group-title="Canais | Infantis",Cartoonito HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71814.ts
+#EXTINF:-1 timeshift="7" tvg-name="Cinemax HD" tvg-logo="http://tjtor8411.com/static/logos/canais/cinemax.png" group-title="Canais | Filmes e Séries",Cinemax HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71835.ts
+#EXTINF:-1 timeshift="7" tvg-name="CNN Brasil HD" tvg-logo="http://tjtor8411.com/static/logos/canais/cnn.png" group-title="Canais | Notícias",CNN Brasil HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71839.ts
+#EXTINF:-1 timeshift="7" tvg-name="Combate HD" tvg-logo="http://tjtor8411.com/static/logos/canais/combate.png" group-title="Canais | Esportes",Combate HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71845.ts
+#EXTINF:-1 tvg-name="Copa do Brasil 1 HD" tvg-logo="http://tjtor8411.com/images/9a2901b02f405b562056854b5ab87abb.jpg" group-title="Canais | Prime Video",Copa do Brasil 1 HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/150499.ts
+#EXTINF:-1 tvg-name="Copa do Brasil 2 HD" tvg-logo="http://tjtor8411.com/images/9a2901b02f405b562056854b5ab87abb.jpg" group-title="Canais | Prime Video",Copa do Brasil 2 HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/150502.ts
+#EXTINF:-1 timeshift="7" tvg-name="Cultura HD" tvg-logo="http://acstatic.co/logos/canais/tvcultura.png" group-title="Canais | Abertos",Cultura HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71853.ts
+#EXTINF:-1 tvg-name="Curta HD" tvg-logo="http://tjtor8411.com/static/logos/canais/curta.png" group-title="Canais | Documentários",Curta HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71857.ts
+#EXTINF:-1 tvg-name="DAZN 1 HD" tvg-logo="http://tjtor8411.com/static/logos/canais/dazn.png" group-title="Canais | DAZN",DAZN 1 HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/184551.ts
+#EXTINF:-1 tvg-name="DAZN 2 HD" tvg-logo="http://tjtor8411.com/static/logos/canais/dazn.png" group-title="Canais | DAZN",DAZN 2 HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/184554.ts
+#EXTINF:-1 timeshift="7" tvg-name="Discovery Channel HD" tvg-logo="http://tjtor8411.com/static/logos/canais/discoverychannel.png" group-title="Canais | Documentários",Discovery Channel HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71865.ts
+#EXTINF:-1 tvg-name="Discovery H&H HD" tvg-logo="http://tjtor8411.com/static/logos/canais/discoveryh%26h.png" group-title="Canais | Variedades",Discovery H&H HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71869.ts
+#EXTINF:-1 timeshift="7" tvg-name="Discovery Kids HD" tvg-logo="http://tjtor8411.com/static/logos/canais/discoverykids.png" group-title="Canais | Infantis",Discovery Kids HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71873.ts
+#EXTINF:-1 timeshift="7" tvg-name="Discovery Science HD" tvg-logo="http://tjtor8411.com/static/logos/canais/discoveryscience.png" group-title="Canais | Documentários",Discovery Science HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71877.ts
+#EXTINF:-1 timeshift="7" tvg-name="Discovery Theater HD" tvg-logo="http://tjtor8411.com/static/logos/canais/discoverytheater.png" group-title="Canais | Documentários",Discovery Theater HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71881.ts
+#EXTINF:-1 tvg-name="Discovery Turbo HD" tvg-logo="http://tjtor8411.com/images/54ebbe6b53dab84e158a5bb930339b49.png" group-title="Canais | Variedades",Discovery Turbo HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71885.ts
+#EXTINF:-1 timeshift="7" tvg-name="Discovery World HD" tvg-logo="http://tjtor8411.com/static/logos/canais/discoveryworld.png" group-title="Canais | Documentários",Discovery World HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71889.ts
+#EXTINF:-1 tvg-name="Dog TV HD" tvg-logo="http://tjtor8411.com/images/2ecd0b43c0ba5f0fac0f9fbb98bb79cd.jpg" group-title="Canais | Variedades",Dog TV HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/76923.ts
+#EXTINF:-1 tvg-name="E! HD" tvg-logo="http://tjtor8411.com/static/logos/canais/e%21.png" group-title="Canais | Variedades",E! HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71902.ts
+#EXTINF:-1 timeshift="7" tvg-name="ESPN 2 HD" tvg-logo="http://tjtor8411.com/static/logos/canais/espn2.png" group-title="Canais | ESPN",ESPN 2 HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71922.ts
+#EXTINF:-1 timeshift="7" tvg-name="ESPN 3 HD" tvg-logo="http://tjtor8411.com/static/logos/canais/espn.png" group-title="Canais | ESPN",ESPN 3 HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71909.ts
+#EXTINF:-1 timeshift="7" tvg-name="ESPN 4 HD" tvg-logo="http://tjtor8411.com/static/logos/canais/foxsports1.png" group-title="Canais | ESPN",ESPN 4 HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71960.ts
+#EXTINF:-1 tvg-name="ESPN 6 HD" tvg-logo="http://tjtor8411.com/static/logos/canais/espnextra.png" group-title="Canais | ESPN",ESPN 6 HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71917.ts
+#EXTINF:-1 tvg-name="ESPN HD" tvg-logo="http://tjtor8411.com/images/0b9dad1ec9b996957e97803d52ac4aff.png" group-title="Canais | ESPN",ESPN HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71913.ts
+#EXTINF:-1 tvg-name="Eurochannel HD" tvg-logo="http://tjtor8411.com/images/e319732e23a51cafb209d07c7a26c615.jpg" group-title="Canais | Notícias",Eurochannel HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/104911.ts
+#EXTINF:-1 tvg-name="FashionTV HD" tvg-logo="https://i.imgur.com/1jtRh4S.png" group-title="Canais | Variedades",FashionTV HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71926.ts
+#EXTINF:-1 tvg-name="Film&Arts HD" tvg-logo="" group-title="Canais | Filmes e Séries",Film&Arts HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/104915.ts
+#EXTINF:-1 tvg-name="Fish TV HD" tvg-logo="http://tjtor8411.com/static/logos/canais/fishtv.png" group-title="Canais | Variedades",Fish TV HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71930.ts
+#EXTINF:-1 tvg-name="Food Network HD" tvg-logo="http://tjtor8411.com/static/logos/canais/foodnetwork.png" group-title="Canais | Variedades",Food Network HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71934.ts
+#EXTINF:-1 tvg-name="Formula 1 TV HD" tvg-logo="https://imgur.com/a/jyyyawL" group-title="Canais | PPV",Formula 1 TV HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71949.ts
+#EXTINF:-1 timeshift="7" tvg-name="ESPN 5 HD" tvg-logo="http://tjtor8411.com/static/logos/canais/foxsports2.png" group-title="Canais | ESPN",ESPN 5 HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71955.ts
+#EXTINF:-1 tvg-name="France 24 HD" tvg-logo="" group-title="Canais | Notícias",France 24 HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/104907.ts
+#EXTINF:-1 tvg-name="Copa do Brasil 3 HD" tvg-logo="" group-title="Canais | Prime Video",Copa do Brasil 3 HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/105789.ts
+#EXTINF:-1 timeshift="7" tvg-name="Futura HD" tvg-logo="http://tjtor8411.com/static/logos/canais/futura.png" group-title="Canais | Abertos",Futura HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71964.ts
+#EXTINF:-1 tvg-name="Globo Brasilia HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Centro Oeste",Globo Brasilia HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131164.ts
+#EXTINF:-1 timeshift="7" tvg-name="Globo EPTV Campinas HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Sudeste",Globo EPTV Campinas HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71977.ts
+#EXTINF:-1 tvg-name="Globo EPTV Ribeirao Preto HD" tvg-logo="http://tjtor8411.com/images/37974de0d1d16f3b56bec27eca38a765.png" group-title="Canais | Globos Sudeste",Globo EPTV Ribeirao Preto HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131178.ts
+#EXTINF:-1 tvg-name="Globo EPTV Sao Carlos HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Sudeste",Globo EPTV Sao Carlos HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131129.ts
+#EXTINF:-1 tvg-name="Globo EPTV Sul de Minas HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Sudeste",Globo EPTV Sul de Minas HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71980.ts
+#EXTINF:-1 tvg-name="Globo Inter TV Alto Litoral HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Sudeste",Globo Inter TV Alto Litoral HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71983.ts
+#EXTINF:-1 tvg-name="Globo Inter TV Cabugi HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Nordeste",Globo Inter TV Cabugi HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71986.ts
+#EXTINF:-1 tvg-name="Globo Inter TV dos Vales HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Sudeste",Globo Inter TV dos Vales HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71989.ts
+#EXTINF:-1 tvg-name="Globo Inter TV Grande Minas HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Sudeste",Globo Inter TV Grande Minas HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131115.ts
+#EXTINF:-1 tvg-name="Globo Inter TV Serra Mar HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Sudeste",Globo Inter TV Serra Mar HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71995.ts
+#EXTINF:-1 tvg-name="Globo Minas HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Sudeste",Globo Minas HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131159.ts
+#EXTINF:-1 timeshift="7" tvg-name="Globo News HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globonews.png" group-title="Canais | Notícias",Globo News HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71999.ts
+#EXTINF:-1 timeshift="7" tvg-name="Globo Nordeste HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Nordeste",Globo Nordeste HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131157.ts
+#EXTINF:-1 timeshift="7" tvg-name="Globo NSC TV Blumenau HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo NSC TV Blumenau HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72005.ts
+#EXTINF:-1 tvg-name="Globo NSC TV Centro Oeste HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo NSC TV Centro Oeste HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/135433.ts
+#EXTINF:-1 tvg-name="Globo NSC TV Chapeco HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo NSC TV Chapeco HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72008.ts
+#EXTINF:-1 tvg-name="Globo NSC TV Criciuma HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo NSC TV Criciuma HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/135427.ts
+#EXTINF:-1 tvg-name="Globo NSC TV Florianopolis HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo NSC TV Florianopolis HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131183.ts
+#EXTINF:-1 tvg-name="Globo NSC TV Joinville HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo NSC TV Joinville HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131167.ts
+#EXTINF:-1 tvg-name="Globo RBS TV Caxias do Sul HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo RBS TV Caxias do Sul HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72014.ts
+#EXTINF:-1 tvg-name="Globo RBS TV Passo Fundo HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo RBS TV Passo Fundo HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/133065.ts
+#EXTINF:-1 tvg-name="Globo RBS TV Pelotas HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo RBS TV Pelotas HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131121.ts
+#EXTINF:-1 tvg-name="Globo RBS TV Porto Alegre HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo RBS TV Porto Alegre HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72017.ts
+#EXTINF:-1 tvg-name="Globo RBS TV Santa Maria HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo RBS TV Santa Maria HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/135424.ts
+#EXTINF:-1 tvg-name="Globo Rede Amazonica Amapa HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Norte",Globo Rede Amazonica Amapa HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/133056.ts
+#EXTINF:-1 tvg-name="Globo Rede Amazonica Boa Vista HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Norte",Globo Rede Amazonica Boa Vista HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/93588.ts
+#EXTINF:-1 tvg-name="Globo Rede Amazonica Manaus HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Norte",Globo Rede Amazonica Manaus HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72020.ts
+#EXTINF:-1 tvg-name="Globo Rede Amazonica Porto Velho HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Norte",Globo Rede Amazonica Porto Velho HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/93592.ts
+#EXTINF:-1 tvg-name="Globo Rede Amazonica Rio Branco HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Norte",Globo Rede Amazonica Rio Branco HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131162.ts
+#EXTINF:-1 tvg-name="Globo Rede Bahia HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Nordeste",Globo Rede Bahia HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131123.ts
+#EXTINF:-1 timeshift="7" tvg-name="Globo RJ HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Sudeste",Globo RJ HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131163.ts
+#EXTINF:-1 tvg-name="Globo RPC Cascavel HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo RPC Cascavel HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/133059.ts
+#EXTINF:-1 tvg-name="Globo RPC Londrina HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo RPC Londrina HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/133062.ts
+#EXTINF:-1 tvg-name="Globo RPC Paranavai HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo RPC Paranavai HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131170.ts
+#EXTINF:-1 tvg-name="Globo RPC TV Curitiba HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo RPC TV Curitiba HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72626.ts
+#EXTINF:-1 tvg-name="Globo RPC TV Foz do Iguacu HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo RPC TV Foz do Iguacu HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72033.ts
+#EXTINF:-1 tvg-name="Globo RPC TV Maringa HD" tvg-logo="http://tjtor8411.com/images/37974de0d1d16f3b56bec27eca38a765.png" group-title="Canais | Globos Sul",Globo RPC TV Maringa HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/96888.ts
+#EXTINF:-1 tvg-name="Globo RPC TV Ponta Grossa HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo RPC TV Ponta Grossa HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72037.ts
+#EXTINF:-1 tvg-name="Globo SP HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Sudeste",Globo SP HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131212.ts
+#EXTINF:-1 tvg-name="Globo TV Anhanguera HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Centro Oeste",Globo TV Anhanguera HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131166.ts
+#EXTINF:-1 tvg-name="Globo TV Asa Branca HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Nordeste",Globo TV Asa Branca HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/102555.ts
+#EXTINF:-1 tvg-name="Globo TV Cabo Branco HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Nordeste",Globo TV Cabo Branco HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131110.ts
+#EXTINF:-1 tvg-name="Globo TV Centro America HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Centro Oeste",Globo TV Centro America HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72050.ts
+#EXTINF:-1 tvg-name="Globo TV Clube Teresina HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Nordeste",Globo TV Clube Teresina HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72053.ts
+#EXTINF:-1 tvg-name="Globo TV Diario Mogi das Cruzes HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Sudeste",Globo TV Diario Mogi das Cruzes HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/97596.ts
+#EXTINF:-1 tvg-name="Globo TV Fronteira Presidente Prudente HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Sudeste",Globo TV Fronteira Presidente Prudente HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/97588.ts
+#EXTINF:-1 tvg-name="Globo TV Gazeta Alagoas HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Nordeste",Globo TV Gazeta Alagoas HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131214.ts
+#EXTINF:-1 tvg-name="Globo TV Gazeta Sul HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Sudeste",Globo TV Gazeta Sul HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72059.ts
+#EXTINF:-1 tvg-name="Globo TV Gazeta Vitoria HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Sudeste",Globo TV Gazeta Vitoria HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131154.ts
+#EXTINF:-1 tvg-name="Globo TV Integracao Araxa HD" tvg-logo="http://tjtor8411.com/images/37974de0d1d16f3b56bec27eca38a765.png" group-title="Canais | Globos Sudeste",Globo TV Integracao Araxa HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131126.ts
+#EXTINF:-1 tvg-name="Globo TV Integracao Juiz de Fora HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Sudeste",Globo TV Integracao Juiz de Fora HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72068.ts
+#EXTINF:-1 tvg-name="Globo TV Integracao Uberaba HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Sudeste",Globo TV Integracao Uberaba HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/133053.ts
+#EXTINF:-1 tvg-name="Globo TV Integracao Uberlandia HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Sudeste",Globo TV Integracao Uberlandia HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/93598.ts
+#EXTINF:-1 tvg-name="Globo TV Liberal Belem HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Norte",Globo TV Liberal Belem HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72071.ts
+#EXTINF:-1 tvg-name="Globo TV Mirante Cocais HD" tvg-logo="http://tjtor8411.com/images/37974de0d1d16f3b56bec27eca38a765.png" group-title="Canais | Globos Nordeste",Globo TV Mirante Cocais HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/93600.ts
+#EXTINF:-1 tvg-name="Globo TV Mirante Sao Luis HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Norte",Globo TV Mirante Sao Luis HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72074.ts
+#EXTINF:-1 tvg-name="Globo TV Morena HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Centro Oeste",Globo TV Morena HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131169.ts
+#EXTINF:-1 tvg-name="Globo TV Rio Sul HD" tvg-logo="http://tjtor8411.com/images/37974de0d1d16f3b56bec27eca38a765.png" group-title="Canais | Globos Sudeste",Globo TV Rio Sul HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131128.ts
+#EXTINF:-1 tvg-name="Globo TV Sergipe HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Nordeste",Globo TV Sergipe HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131181.ts
+#EXTINF:-1 tvg-name="Globo TV Subae  HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Nordeste",Globo TV Subae  HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/133068.ts
+#EXTINF:-1 timeshift="7" tvg-name="Globo TV Sudoeste HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Nordeste",Globo TV Sudoeste HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72093.ts
+#EXTINF:-1 tvg-name="Globo TV TEM Bauru HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Sudeste",Globo TV TEM Bauru HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/91432.ts
+#EXTINF:-1 tvg-name="Globo TV TEM Itapetininga HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Sudeste",Globo TV TEM Itapetininga HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/91436.ts
+#EXTINF:-1 tvg-name="Globo TV TEM Sao Jose do Rio Preto HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Sudeste",Globo TV TEM Sao Jose do Rio Preto HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/91434.ts
+#EXTINF:-1 tvg-name="Globo TV TEM Sorocaba HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Sudeste",Globo TV TEM Sorocaba HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/91439.ts
+#EXTINF:-1 tvg-name="Globo TV Tribuna Santos HD" tvg-logo="http://tjtor8411.com/images/37974de0d1d16f3b56bec27eca38a765.png" group-title="Canais | Globos Sudeste",Globo TV Tribuna Santos HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131165.ts
+#EXTINF:-1 tvg-name="Globo TV Vanguarda S.J dos Campos HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Sudeste",Globo TV Vanguarda S.J dos Campos HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/144027.ts
+#EXTINF:-1 tvg-name="Globo TV Vanguarda Taubate HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Sudeste",Globo TV Vanguarda Taubate HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/93605.ts
+#EXTINF:-1 tvg-name="Globo TV Verdes Mares HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Nordeste",Globo TV Verdes Mares HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72096.ts
+#EXTINF:-1 tvg-name="Gloob HD" tvg-logo="http://tjtor8411.com/static/logos/canais/gloob.png" group-title="Canais | Infantis",Gloob HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72100.ts
+#EXTINF:-1 tvg-name="Gloobinho HD" tvg-logo="http://acstatic.co/logos/canais/gloobinho.png" group-title="Canais | Infantis",Gloobinho HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/90629.ts
+#EXTINF:-1 tvg-name="GNT HD" tvg-logo="http://tjtor8411.com/static/logos/canais/gnt.png" group-title="Canais | Variedades",GNT HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72104.ts
+#EXTINF:-1 timeshift="7" tvg-name="H2 HD" tvg-logo="http://tjtor8411.com/static/logos/canais/h2.png" group-title="Canais | Documentários",H2 HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72108.ts
+#EXTINF:-1 tvg-name="HBO 2 HD" tvg-logo="http://tjtor8411.com/static/logos/canais/hbo2.png" group-title="Canais | HBO",HBO 2 HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72112.ts
+#EXTINF:-1 tvg-name="HBO Family HD" tvg-logo="http://tjtor8411.com/static/logos/canais/hbofamily.png" group-title="Canais | HBO",HBO Family HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72116.ts
+#EXTINF:-1 timeshift="7" tvg-name="HBO HD" tvg-logo="http://tjtor8411.com/static/logos/canais/hbo.png" group-title="Canais | HBO",HBO HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72120.ts
+#EXTINF:-1 tvg-name="HBO HD [LEG]" tvg-logo="http://tjtor8411.com/static/logos/canais/hbo.png" group-title="Canais | Legendados",HBO HD [LEG]
+http://tjtor8411.com:80/Osiel123/Felicidade321/90697.ts
+#EXTINF:-1 tvg-name="Max 1 HD" tvg-logo="http://tjtor8411.com/images/48978cd3e3eb7f9b057b64decd5df5b8.jpg" group-title="Canais | Max",Max 1 HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71904.ts
+#EXTINF:-1 tvg-name="Max 2 HD" tvg-logo="http://tjtor8411.com/images/48978cd3e3eb7f9b057b64decd5df5b8.jpg" group-title="Canais | Max",Max 2 HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71905.ts
+#EXTINF:-1 tvg-name="Max 3 HD" tvg-logo="http://tjtor8411.com/images/48978cd3e3eb7f9b057b64decd5df5b8.jpg" group-title="Canais | Max",Max 3 HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71906.ts
+#EXTINF:-1 tvg-name="Max 4 HD" tvg-logo="http://tjtor8411.com/images/48978cd3e3eb7f9b057b64decd5df5b8.jpg" group-title="Canais | Max",Max 4 HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/76673.ts
+#EXTINF:-1 tvg-name="Max 5 HD" tvg-logo="http://tjtor8411.com/images/48978cd3e3eb7f9b057b64decd5df5b8.jpg" group-title="Canais | Max",Max 5 HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/130196.ts
+#EXTINF:-1 tvg-name="Max 6 HD" tvg-logo="http://tjtor8411.com/images/48978cd3e3eb7f9b057b64decd5df5b8.jpg" group-title="Canais | Max",Max 6 HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/130197.ts
+#EXTINF:-1 tvg-name="HBO Mundi HD" tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="Canais | HBO",HBO Mundi HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72123.ts
+#EXTINF:-1 tvg-name="HBO Mundi HD [LEG]" tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="Canais | Legendados",HBO Mundi HD [LEG]
+http://tjtor8411.com:80/Osiel123/Felicidade321/90694.ts
+#EXTINF:-1 timeshift="7" tvg-name="HBO Plus HD" tvg-logo="http://tjtor8411.com/static/logos/canais/hboplus.png" group-title="Canais | HBO",HBO Plus HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72127.ts
+#EXTINF:-1 tvg-name="HBO Plus HD [LEG]" tvg-logo="http://tjtor8411.com/static/logos/canais/hboplus.png" group-title="Canais | Legendados",HBO Plus HD [LEG]
+http://tjtor8411.com:80/Osiel123/Felicidade321/90691.ts
+#EXTINF:-1 tvg-name="HBO Pop HD" tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="Canais | HBO",HBO Pop HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72131.ts
+#EXTINF:-1 tvg-name="HBO Pop HD [LEG]" tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="Canais | Legendados",HBO Pop HD [LEG]
+http://tjtor8411.com:80/Osiel123/Felicidade321/90688.ts
+#EXTINF:-1 tvg-name="HBO Signature HD" tvg-logo="http://tjtor8411.com/static/logos/canais/hbosignature.png" group-title="Canais | HBO",HBO Signature HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72136.ts
+#EXTINF:-1 tvg-name="HBO Signature HD [LEG]" tvg-logo="http://tjtor8411.com/static/logos/canais/hbosignature.png" group-title="Canais | Legendados",HBO Signature HD [LEG]
+http://tjtor8411.com:80/Osiel123/Felicidade321/90685.ts
+#EXTINF:-1 tvg-name="HBO Xtreme HD" tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="Canais | HBO",HBO Xtreme HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72140.ts
+#EXTINF:-1 tvg-name="HBO Xtreme HD [LEG]" tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="Canais | Legendados",HBO Xtreme HD [LEG]
+http://tjtor8411.com:80/Osiel123/Felicidade321/90682.ts
+#EXTINF:-1 tvg-name="HGTV HD" tvg-logo="http://tjtor8411.com/static/logos/canais/discoverycivilization.png" group-title="Canais | Documentários",HGTV HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72144.ts
+#EXTINF:-1 timeshift="7" tvg-name="History HD" tvg-logo="http://tjtor8411.com/static/logos/canais/history.png" group-title="Canais | Documentários",History HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72148.ts
+#EXTINF:-1 timeshift="7" tvg-name="ID HD" tvg-logo="http://tjtor8411.com/images/ae050ba13a405e34c4192a0da5376574.png" group-title="Canais | Documentários",ID HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72152.ts
+#EXTINF:-1 tvg-name="Ideal TV HD" tvg-logo="http://tjtor8411.com/images/6791e20f29c12970b66e3b2fc0a43980.jpg" group-title="Canais | Religiosos",Ideal TV HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/178527.ts
+#EXTINF:-1 timeshift="7" tvg-name="Jovem Pan News HD" tvg-logo="http://tjtor8411.com/images/1cd8c9455f7b030e1f95b27253dd070b.png" group-title="Canais | Notícias",Jovem Pan News HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/134024.ts
+#EXTINF:-1 tvg-name="Lifetime HD" tvg-logo="http://tjtor8411.com/static/logos/canais/lifetime.png" group-title="Canais | Variedades",Lifetime HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72156.ts
+#EXTINF:-1 tvg-name="Liga Futsal 1 HD" tvg-logo="http://tjtor8411.com/images/96c7b35001b7a7a692e26d0331429b2b.jpg" group-title="Canais | Liga Futsal",Liga Futsal 1 HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/109225.ts
+#EXTINF:-1 tvg-name="Liga Futsal 2 HD" tvg-logo="http://tjtor8411.com/images/96c7b35001b7a7a692e26d0331429b2b.jpg" group-title="Canais | Liga Futsal",Liga Futsal 2 HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/155743.ts
+#EXTINF:-1 tvg-name="Liga Futsal 3 HD" tvg-logo="http://tjtor8411.com/images/96c7b35001b7a7a692e26d0331429b2b.jpg" group-title="Canais | Liga Futsal",Liga Futsal 3 HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/156664.ts
+#EXTINF:-1 tvg-name="Liga Futsal 4 HD" tvg-logo="http://tjtor8411.com/images/96c7b35001b7a7a692e26d0331429b2b.jpg" group-title="Canais | Liga Futsal",Liga Futsal 4 HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/156667.ts
+#EXTINF:-1 tvg-name="Markket HD" tvg-logo="" group-title="Canais | Variedades",Markket HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/164029.ts
+#EXTINF:-1 tvg-name="Mega TV HD" tvg-logo="" group-title="Canais | Variedades",Mega TV HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/104925.ts
+#EXTINF:-1 timeshift="7" tvg-name="Megapix HD" tvg-logo="http://tjtor8411.com/static/logos/canais/megapix.png" group-title="Canais | Filmes e Séries",Megapix HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72169.ts
+#EXTINF:-1 tvg-name="Megapix HD [LEG]" tvg-logo="http://tjtor8411.com/static/logos/canais/megapix.png" group-title="Canais | Legendados",Megapix HD [LEG]
+http://tjtor8411.com:80/Osiel123/Felicidade321/131118.ts
+#EXTINF:-1 tvg-name="Modo Viagem HD" tvg-logo="http://tjtor8411.com/images/d93d8875965a86e8f2d5bcc153074e87.png" group-title="Canais | Variedades",Modo Viagem HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72164.ts
+#EXTINF:-1 tvg-name="Multishow HD" tvg-logo="http://tjtor8411.com/static/logos/canais/multishow.png" group-title="Canais | Variedades",Multishow HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72182.ts
+#EXTINF:-1 tvg-name="Music Box Brazil HD" tvg-logo="http://tjtor8411.com/static/logos/canais/musicboxbrazil.png" group-title="Canais | Variedades",Music Box Brazil HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72186.ts
+#EXTINF:-1 tvg-name="NBA League Pass 1 HD" tvg-logo="https://i.imgur.com/ynW8fZF.png" group-title="Canais | NBA",NBA League Pass 1 HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/140517.ts
+#EXTINF:-1 tvg-name="NBA League Pass 2 HD" tvg-logo="https://i.imgur.com/ynW8fZF.png" group-title="Canais | NBA",NBA League Pass 2 HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/140520.ts
+#EXTINF:-1 tvg-name="NBA League Pass 3 HD" tvg-logo="https://i.imgur.com/ynW8fZF.png" group-title="Canais | NBA",NBA League Pass 3 HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/140523.ts
+#EXTINF:-1 tvg-name="NBA League Pass 4 HD" tvg-logo="https://i.imgur.com/ynW8fZF.png" group-title="Canais | NBA",NBA League Pass 4 HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/140526.ts
+#EXTINF:-1 tvg-name="NBA League Pass 5 HD" tvg-logo="https://i.imgur.com/ynW8fZF.png" group-title="Canais | NBA",NBA League Pass 5 HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/141488.ts
+#EXTINF:-1 tvg-name="NBA League Pass 6 HD" tvg-logo="https://i.imgur.com/ynW8fZF.png" group-title="Canais | NBA",NBA League Pass 6 HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/141491.ts
+#EXTINF:-1 tvg-name="SportyNet 1 HD" tvg-logo="" group-title="Canais | Campeonatos Estaduais",SportyNet 1 HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/184570.ts
+#EXTINF:-1 tvg-name="SportyNet 2 HD" tvg-logo="" group-title="Canais | Campeonatos Estaduais",SportyNet 2 HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/184575.ts
+#EXTINF:-1 tvg-name="SportyNet 3 HD" tvg-logo="" group-title="Canais | Campeonatos Estaduais",SportyNet 3 HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/184580.ts
+#EXTINF:-1 tvg-name="SportyNet 4 HD" tvg-logo="" group-title="Canais | Campeonatos Estaduais",SportyNet 4 HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/184585.ts
+#EXTINF:-1 tvg-name="OFF HD" tvg-logo="http://tjtor8411.com/static/logos/canais/off.png" group-title="Canais | Variedades",OFF HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72211.ts
+#EXTINF:-1 tvg-name="OneFootball 1 HD" tvg-logo="" group-title="Canais | PPV",OneFootball 1 HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/185801.ts
+#EXTINF:-1 timeshift="7" tvg-name="Pai Eterno HD" tvg-logo="http://tjtor8411.com/images/94e056ce2525d0336871da9d31d41e85.png" group-title="Canais | Religiosos",Pai Eterno HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72214.ts
+#EXTINF:-1 tvg-name="Paramount + 1 HD" tvg-logo="http://tjtor8411.com/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 1 HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72979.ts
+#EXTINF:-1 tvg-name="Paramount + 2 HD" tvg-logo="http://tjtor8411.com/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 2 HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72983.ts
+#EXTINF:-1 tvg-name="Paramount + 3 HD" tvg-logo="http://tjtor8411.com/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 3 HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72987.ts
+#EXTINF:-1 tvg-name="Paramount + 4 HD" tvg-logo="http://tjtor8411.com/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 4 HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72991.ts
+#EXTINF:-1 timeshift="7" tvg-name="Paramount Channel HD" tvg-logo="http://tjtor8411.com/static/logos/canais/paramount.png" group-title="Canais | Filmes e Séries",Paramount Channel HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72219.ts
+#EXTINF:-1 timeshift="7" tvg-name="Premiere 2 HD" tvg-logo="http://tjtor8411.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 2 HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72239.ts
+#EXTINF:-1 timeshift="7" tvg-name="Premiere 3 HD" tvg-logo="http://tjtor8411.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 3 HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72243.ts
+#EXTINF:-1 timeshift="7" tvg-name="Premiere 4 HD" tvg-logo="http://tjtor8411.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 4 HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72247.ts
+#EXTINF:-1 timeshift="7" tvg-name="Premiere 5 HD" tvg-logo="http://tjtor8411.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 5 HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72251.ts
+#EXTINF:-1 timeshift="7" tvg-name="Premiere 6 HD" tvg-logo="http://tjtor8411.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 6 HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72255.ts
+#EXTINF:-1 timeshift="7" tvg-name="Premiere 7 HD" tvg-logo="http://tjtor8411.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 7 HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72259.ts
+#EXTINF:-1 tvg-name="Premiere 8 HD" tvg-logo="http://tjtor8411.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 8 HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/180159.ts
+#EXTINF:-1 timeshift="7" tvg-name="Premiere Clubes HD" tvg-logo="http://tjtor8411.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere Clubes HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72265.ts
+#EXTINF:-1 tvg-name="Prime Box Brazil HD" tvg-logo="http://tjtor8411.com/static/logos/canais/primeboxbrazil.png" group-title="Canais | Variedades",Prime Box Brazil HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72269.ts
+#EXTINF:-1 timeshift="7" tvg-name="Record News HD" tvg-logo="http://tjtor8411.com/images/2449a2b4976db3d6d8efdbd249a40971.png" group-title="Canais | Notícias",Record News HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72272.ts
+#EXTINF:-1 tvg-name="RecordTV Itapoan HD" tvg-logo="http://tjtor8411.com/static/logos/canais/record.png" group-title="Canais | RecordTV",RecordTV Itapoan HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72284.ts
+#EXTINF:-1 timeshift="7" tvg-name="RecordTV RJ HD" tvg-logo="http://tjtor8411.com/static/logos/canais/record.png" group-title="Canais | RecordTV",RecordTV RJ HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72594.ts
+#EXTINF:-1 timeshift="7" tvg-name="RecordTV SP HD" tvg-logo="http://tjtor8411.com/static/logos/canais/record.png" group-title="Canais | RecordTV",RecordTV SP HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72973.ts
+#EXTINF:-1 tvg-name="Rede Gospel HD" tvg-logo="http://tjtor8411.com/images/bb8c38ad035e925a1f2c8fb19c785370.jpg" group-title="Canais | Religiosos",Rede Gospel HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/104930.ts
+#EXTINF:-1 timeshift="7" tvg-name="Rede Vida HD" tvg-logo="http://tjtor8411.com/static/logos/canais/redevida.png" group-title="Canais | Religiosos",Rede Vida HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72295.ts
+#EXTINF:-1 timeshift="7" tvg-name="RedeTV HD" tvg-logo="http://tjtor8411.com/images/730b1aa20e87fbb7b2101a02fe806630.png" group-title="Canais | Abertos",RedeTV HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72299.ts
+#EXTINF:-1 tvg-name="Sabor & Arte HD" tvg-logo="" group-title="Canais | Variedades",Sabor & Arte HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/112016.ts
+#EXTINF:-1 tvg-name="SBT Rede Massa PR HD" tvg-logo="http://tjtor8411.com/static/logos/canais/sbt.png" group-title="Canais | Abertos",SBT Rede Massa PR HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72305.ts
+#EXTINF:-1 tvg-name="SBT RJ HD" tvg-logo="http://tjtor8411.com/static/logos/canais/sbt.png" group-title="Canais | Abertos",SBT RJ HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/108682.ts
+#EXTINF:-1 tvg-name="SBT RS HD" tvg-logo="http://tjtor8411.com/static/logos/canais/sbt.png" group-title="Canais | Abertos",SBT RS HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/75028.ts
+#EXTINF:-1 timeshift="7" tvg-name="SBT SP HD" tvg-logo="http://tjtor8411.com/images/cdeca592bbb91b4c697cb75440c2bf83.png" group-title="Canais | Abertos",SBT SP HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72598.ts
+#EXTINF:-1 tvg-name="SBT TV Alterosa HD" tvg-logo="http://fanc.tmsimg.com/assets/s104210_ll_h3_aa.png" group-title="Canais | Abertos",SBT TV Alterosa HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72621.ts
+#EXTINF:-1 timeshift="7" tvg-name="Space HD" tvg-logo="http://tjtor8411.com/static/logos/canais/space.png" group-title="Canais | Filmes e Séries",Space HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72319.ts
+#EXTINF:-1 tvg-name="Space HD [LEG]" tvg-logo="http://tjtor8411.com/static/logos/canais/space.png" group-title="Canais | Legendados",Space HD [LEG]
+http://tjtor8411.com:80/Osiel123/Felicidade321/90676.ts
+#EXTINF:-1 timeshift="7" tvg-name="SporTV 2 HD" tvg-logo="http://tjtor8411.com/static/logos/canais/sportv2.png" group-title="Canais | SporTV",SporTV 2 HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131176.ts
+#EXTINF:-1 timeshift="7" tvg-name="SporTV 3 HD" tvg-logo="http://tjtor8411.com/static/logos/canais/sportv3.png" group-title="Canais | SporTV",SporTV 3 HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131113.ts
+#EXTINF:-1 timeshift="7" tvg-name="SporTV HD" tvg-logo="http://tjtor8411.com/static/logos/canais/sportv.png" group-title="Canais | SporTV",SporTV HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72332.ts
+#EXTINF:-1 tvg-name="Disney + 1 HD" tvg-logo="http://tjtor8411.com/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Canais | Disney +",Disney + 1 HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/128347.ts
+#EXTINF:-1 tvg-name="Disney + 2 HD" tvg-logo="http://tjtor8411.com/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Canais | Disney +",Disney + 2 HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/129345.ts
+#EXTINF:-1 tvg-name="Disney + 3 HD" tvg-logo="http://tjtor8411.com/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Canais | Disney +",Disney + 3 HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/129346.ts
+#EXTINF:-1 tvg-name="Disney + 4 HD" tvg-logo="http://tjtor8411.com/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Canais | Disney +",Disney + 4 HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/129347.ts
+#EXTINF:-1 timeshift="7" tvg-name="Studio Universal HD" tvg-logo="http://tjtor8411.com/static/logos/canais/studiouniversal.png" group-title="Canais | Filmes e Séries",Studio Universal HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72336.ts
+#EXTINF:-1 timeshift="7" tvg-name="USA Network HD" tvg-logo="http://tjtor8411.com/static/logos/canais/syfy.png" group-title="Canais | Filmes e Séries",USA Network HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72340.ts
+#EXTINF:-1 timeshift="7" tvg-name="TNT Novelas HD" tvg-logo="http://tjtor8411.com/static/logos/canais/tbs.png" group-title="Canais | Filmes e Séries",TNT Novelas HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72344.ts
+#EXTINF:-1 timeshift="7" tvg-name="Telecine Action HD" tvg-logo="http://tjtor8411.com/static/logos/canais/telecineaction.png" group-title="Canais | Telecine",Telecine Action HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72348.ts
+#EXTINF:-1 tvg-name="Telecine Action HD [LEG]" tvg-logo="http://tjtor8411.com/static/logos/canais/telecineaction.png" group-title="Canais | Legendados",Telecine Action HD [LEG]
+http://tjtor8411.com:80/Osiel123/Felicidade321/90667.ts
+#EXTINF:-1 timeshift="7" tvg-name="Telecine Cult HD" tvg-logo="http://tjtor8411.com/static/logos/canais/telecinecult.png" group-title="Canais | Telecine",Telecine Cult HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72352.ts
+#EXTINF:-1 tvg-name="Telecine Cult HD [LEG]" tvg-logo="http://tjtor8411.com/static/logos/canais/telecinecult.png" group-title="Canais | Legendados",Telecine Cult HD [LEG]
+http://tjtor8411.com:80/Osiel123/Felicidade321/90664.ts
+#EXTINF:-1 timeshift="7" tvg-name="Telecine Fun HD" tvg-logo="http://tjtor8411.com/static/logos/canais/telecinefun.png" group-title="Canais | Telecine",Telecine Fun HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72356.ts
+#EXTINF:-1 tvg-name="Telecine Fun HD [LEG]" tvg-logo="http://tjtor8411.com/static/logos/canais/telecinefun.png" group-title="Canais | Legendados",Telecine Fun HD [LEG]
+http://tjtor8411.com:80/Osiel123/Felicidade321/90661.ts
+#EXTINF:-1 timeshift="7" tvg-name="Telecine Pipoca HD" tvg-logo="http://tjtor8411.com/static/logos/canais/telecinepipoca.png" group-title="Canais | Telecine",Telecine Pipoca HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72360.ts
+#EXTINF:-1 tvg-name="Telecine Pipoca HD [LEG]" tvg-logo="http://tjtor8411.com/static/logos/canais/telecinepipoca.png" group-title="Canais | Legendados",Telecine Pipoca HD [LEG]
+http://tjtor8411.com:80/Osiel123/Felicidade321/90658.ts
+#EXTINF:-1 timeshift="7" tvg-name="Telecine Premium HD" tvg-logo="http://tjtor8411.com/static/logos/canais/telecinepremium.png" group-title="Canais | Telecine",Telecine Premium HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72364.ts
+#EXTINF:-1 tvg-name="Telecine Premium HD [LEG]" tvg-logo="http://tjtor8411.com/static/logos/canais/telecinepremium.png" group-title="Canais | Legendados",Telecine Premium HD [LEG]
+http://tjtor8411.com:80/Osiel123/Felicidade321/90655.ts
+#EXTINF:-1 timeshift="7" tvg-name="Telecine Touch HD" tvg-logo="http://tjtor8411.com/static/logos/canais/telecinetouch.png" group-title="Canais | Telecine",Telecine Touch HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72368.ts
+#EXTINF:-1 tvg-name="Telecine Touch HD [LEG]" tvg-logo="http://tjtor8411.com/static/logos/canais/telecinetouch.png" group-title="Canais | Legendados",Telecine Touch HD [LEG]
+http://tjtor8411.com:80/Osiel123/Felicidade321/90652.ts
+#EXTINF:-1 tvg-name="TLC HD" tvg-logo="http://tjtor8411.com/static/logos/canais/tlc.png" group-title="Canais | Variedades",TLC HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72373.ts
+#EXTINF:-1 timeshift="7" tvg-name="TNT HD" tvg-logo="http://tjtor8411.com/static/logos/canais/tnt.png" group-title="Canais | Filmes e Séries",TNT HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72378.ts
+#EXTINF:-1 tvg-name="TNT HD [LEG]" tvg-logo="http://tjtor8411.com/static/logos/canais/tnt.png" group-title="Canais | Legendados",TNT HD [LEG]
+http://tjtor8411.com:80/Osiel123/Felicidade321/90673.ts
+#EXTINF:-1 timeshift="7" tvg-name="TNT Series HD" tvg-logo="http://tjtor8411.com/static/logos/canais/tntseries.png" group-title="Canais | Filmes e Séries",TNT Series HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72383.ts
+#EXTINF:-1 tvg-name="TNT Series HD [LEG]" tvg-logo="http://tjtor8411.com/static/logos/canais/tntseries.png" group-title="Canais | Legendados",TNT Series HD [LEG]
+http://tjtor8411.com:80/Osiel123/Felicidade321/90670.ts
+#EXTINF:-1 timeshift="7" tvg-name="Trace Brazuca HD" tvg-logo="https://i.imgur.com/ZXe9A7X.png" group-title="Canais | Variedades",Trace Brazuca HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72388.ts
+#EXTINF:-1 tvg-name="Travel Box Brazil HD" tvg-logo="http://tjtor8411.com/static/logos/canais/travelboxbrazil.png" group-title="Canais | Variedades",Travel Box Brazil HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72392.ts
+#EXTINF:-1 tvg-name="TV Aparecida HD" tvg-logo="http://tjtor8411.com/static/logos/canais/aparecida.png" group-title="Canais | Religiosos",TV Aparecida HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72396.ts
+#EXTINF:-1 timeshift="7" tvg-name="TV Brasil HD" tvg-logo="http://tjtor8411.com/static/logos/canais/tvbrasil.png" group-title="Canais | Abertos",TV Brasil HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72401.ts
+#EXTINF:-1 tvg-name="TV Cidade RecordTV HD" tvg-logo="https://imgur.com/DRX0wcK" group-title="Canais | RecordTV",TV Cidade RecordTV HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/92668.ts
+#EXTINF:-1 tvg-name="TV Gazeta SP HD" tvg-logo="http://tjtor8411.com/images/2baf5152b328307749ffbafedb684497.png" group-title="Canais | Abertos",TV Gazeta SP HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72406.ts
+#EXTINF:-1 timeshift="7" tvg-name="TV Novo Tempo HD" tvg-logo="http://tjtor8411.com/static/logos/canais/novotempo.png" group-title="Canais | Religiosos",TV Novo Tempo HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72410.ts
+#EXTINF:-1 tvg-name="TV Ra-Tim-Bum HD" tvg-logo="http://tjtor8411.com/static/logos/canais/ratimbum.png" group-title="Canais | Infantis",TV Ra-Tim-Bum HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72414.ts
+#EXTINF:-1 tvg-name="TV Uniao Fortaleza HD" tvg-logo="" group-title="Canais | Abertos",TV Uniao Fortaleza HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/100423.ts
+#EXTINF:-1 tvg-name="UFC Fight Pass HD" tvg-logo="" group-title="Canais | PPV",UFC Fight Pass HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/184047.ts
+#EXTINF:-1 timeshift="7" tvg-name="Universal TV HD" tvg-logo="http://tjtor8411.com/static/logos/canais/universalchannel.png" group-title="Canais | Filmes e Séries",Universal TV HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72421.ts
+#EXTINF:-1 tvg-name="Globoplay Novelas HD" tvg-logo="http://tjtor8411.com/static/logos/canais/viva.png" group-title="Canais | Variedades",Globoplay Novelas HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72429.ts
+#EXTINF:-1 timeshift="7" tvg-name="Warner Channel HD" tvg-logo="http://tjtor8411.com/static/logos/canais/warner.png" group-title="Canais | Filmes e Séries",Warner Channel HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72433.ts
+#EXTINF:-1 tvg-name="Warner Channel HD [LEG]" tvg-logo="http://tjtor8411.com/static/logos/canais/warner.png" group-title="Canais | Legendados",Warner Channel HD [LEG]
+http://tjtor8411.com:80/Osiel123/Felicidade321/90649.ts
+#EXTINF:-1 tvg-name="WooHoo HD" tvg-logo="http://tjtor8411.com/static/logos/canais/woohoo.png" group-title="Canais | Variedades",WooHoo HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72437.ts
+#EXTINF:-1 tvg-name="Zoomoo HD" tvg-logo="http://tjtor8411.com/images/5dab2df694584172699383cdb1100c18.jpg" group-title="Canais | Infantis",Zoomoo HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/104935.ts
+#EXTINF:-1 tvg-name="Furacao Live HD" tvg-logo="" group-title="Canais | PPV",Furacao Live HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/192080.ts
+#EXTINF:-1 tvg-name="Live TV HD" tvg-logo="" group-title="Canais | Variedades",Live TV HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/192626.ts
+#EXTINF:-1 tvg-name="Copa do Brasil 4 HD" tvg-logo="" group-title="Canais | Prime Video",Copa do Brasil 4 HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/193254.ts
+#EXTINF:-1 tvg-name="League Cup HD" tvg-logo="" group-title="Canais | Apple TV +",League Cup HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/203510.ts
+#EXTINF:-1 tvg-name="RecordTV Vila Real HD" tvg-logo="http://tjtor8411.com/images/772255b867c746a532039ecd6dbc6a72.png" group-title="Canais | RecordTV",RecordTV Vila Real HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/218786.ts
+#EXTINF:-1 tvg-name="RecordTV Thathi Campinas HD" tvg-logo="http://tjtor8411.com/images/772255b867c746a532039ecd6dbc6a72.png" group-title="Canais | RecordTV",RecordTV Thathi Campinas HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/218788.ts
+#EXTINF:-1 tvg-name="RecordTV RJ Interior HD" tvg-logo="http://fanc.tmsimg.com/assets/s76624_ll_h3_aa.png" group-title="Canais | RecordTV",RecordTV RJ Interior HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/218793.ts
+#EXTINF:-1 tvg-name="RecordTV Rio Preto HD" tvg-logo="http://fanc.tmsimg.com/assets/s76737_ll_h3_aa.png" group-title="Canais | RecordTV",RecordTV Rio Preto HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/218795.ts
+#EXTINF:-1 tvg-name="RecordTV Paranaiba de Uberlandia HD" tvg-logo="http://tjtor8411.com/static/logos/canais/record.png" group-title="Canais | RecordTV",RecordTV Paranaiba de Uberlandia HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/218797.ts
+#EXTINF:-1 tvg-name="RecordTV Litoral Vale do Parnaiba HD" tvg-logo="http://fanc.tmsimg.com/assets/s104761_ll_h3_aa.png" group-title="Canais | RecordTV",RecordTV Litoral Vale do Parnaiba HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/218815.ts
+#EXTINF:-1 tvg-name="RecordTV Goias HD" tvg-logo="http://fanc.tmsimg.com/assets/s104205_ll_h3_aa.png" group-title="Canais | RecordTV",RecordTV Goias HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/218823.ts
+#EXTINF:-1 tvg-name="Canal Goat HD" tvg-logo="" group-title="Canais | PPV",Canal Goat HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/218846.ts
+#EXTINF:-1 tvg-name="TVE Bahia HD" tvg-logo="" group-title="Canais | Campeonatos Estaduais",TVE Bahia HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/241552.ts
+#EXTINF:-1 tvg-name="Canal Goat 2 HD" tvg-logo="" group-title="Canais | PPV",Canal Goat 2 HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/242173.ts
+#EXTINF:-1 tvg-name="FCF TV 1 HD" tvg-logo="" group-title="Canais | PPV",FCF TV 1 HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/247977.ts
+#EXTINF:-1 tvg-name="FCF TV 2 HD" tvg-logo="" group-title="Canais | PPV",FCF TV 2 HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/247980.ts
+#EXTINF:-1 tvg-name="Adult Swim HD" tvg-logo="" group-title="Canais | Infantis",Adult Swim HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/251958.ts
+#EXTINF:-1 tvg-name="RecordTV RS HD" tvg-logo="http://tjtor8411.com/images/772255b867c746a532039ecd6dbc6a72.png" group-title="Canais | RecordTV",RecordTV RS HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72974.ts
+#EXTINF:-1 tvg-name="SporTV 4 HD" tvg-logo="http://tjtor8411.com/static/logos/canais/sportv2.png" group-title="Canais | SporTV",SporTV 4 HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/276090.ts
+#EXTINF:-1 tvg-name="Band Ribeirao Preto HD" tvg-logo="http://tjtor8411.com/images/abb329697106ebb6f051ab5ab2d39dfd.png" group-title="Canais | Abertos",Band Ribeirao Preto HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/286483.ts
+#EXTINF:-1 tvg-name="SBT Ribeirao Preto HD" tvg-logo="http://tjtor8411.com/static/logos/canais/sbt.png" group-title="Canais | Abertos",SBT Ribeirao Preto HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/286484.ts
+#EXTINF:-1 tvg-name="Mr. Olympia TV HD" tvg-logo="" group-title="Canais | PPV",Mr. Olympia TV HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/289536.ts
+#EXTINF:-1 timeshift="7" tvg-name="CNBC Brasil HD" tvg-logo="" group-title="Canais | Notícias",CNBC Brasil HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/295478.ts
+#EXTINF:-1 timeshift="7" tvg-name="CNN Brasil Money HD" tvg-logo="" group-title="Canais | Notícias",CNN Brasil Money HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/295483.ts
+#EXTINF:-1 tvg-name="Globo RBS TV Santa Cruz do Sul HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo RBS TV Santa Cruz do Sul HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306608.ts
+#EXTINF:-1 tvg-name="Globo Rede Bahia TV Oeste HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Nordeste",Globo Rede Bahia TV Oeste HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306611.ts
+#EXTINF:-1 tvg-name="Globo TV Morena Ponta Pora HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Centro Oeste",Globo TV Morena Ponta Pora HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306645.ts
+#EXTINF:-1 timeshift="7" tvg-name="Globo TV Integracao Ituiutaba HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Sudeste",Globo TV Integracao Ituiutaba HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306648.ts
+#EXTINF:-1 tvg-name="Globo TV Centro America Rondonopolis HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Centro Oeste",Globo TV Centro America Rondonopolis HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306651.ts
+#EXTINF:-1 tvg-name="Globo TV Anhanguera Itumbiara HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Centro Oeste",Globo TV Anhanguera Itumbiara HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306654.ts
+#EXTINF:-1 tvg-name="Globo RPC TV Guarapuava HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo RPC TV Guarapuava HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306675.ts
+#EXTINF:-1 tvg-name="Globo RBS TV Uruguaiana HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo RBS TV Uruguaiana HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306678.ts
+#EXTINF:-1 tvg-name="Globo RBS TV Santa Rosa HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo RBS TV Santa Rosa HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306681.ts
+#EXTINF:-1 tvg-name="Globo RBS TV Erechim HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo RBS TV Erechim HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306684.ts
+#EXTINF:-1 tvg-name="Globo RBS TV Cruz Alta HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo RBS TV Cruz Alta HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306686.ts
+#EXTINF:-1 tvg-name="Globo RBS TV Bage HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo RBS TV Bage HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306750.ts
+#EXTINF:-1 tvg-name="Globo TV Anhanguera Anapolis HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Centro Oeste",Globo TV Anhanguera Anapolis HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306753.ts
+#EXTINF:-1 tvg-name="Globo TV Anhanguera Luziania HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Centro Oeste",Globo TV Anhanguera Luziania HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306756.ts
+#EXTINF:-1 tvg-name="Globo TV Anhanguera Palmas HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Norte",Globo TV Anhanguera Palmas HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306759.ts
+#EXTINF:-1 tvg-name="Globo TV Anhanguera Rio Verde HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Centro Oeste",Globo TV Anhanguera Rio Verde HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306762.ts
+#EXTINF:-1 tvg-name="Globo TV Centro America Sinop HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Centro Oeste",Globo TV Centro America Sinop HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306765.ts
+#EXTINF:-1 tvg-name="Globo TV Grande Rio HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Nordeste",Globo TV Grande Rio HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306768.ts
+#EXTINF:-1 tvg-name="Globo TV Liberal Castanhal HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Norte",Globo TV Liberal Castanhal HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306771.ts
+#EXTINF:-1 tvg-name="Globo TV Liberal Maraba HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Norte",Globo TV Liberal Maraba HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306774.ts
+#EXTINF:-1 tvg-name="Globo TV Mirante Imperatriz HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Nordeste",Globo TV Mirante Imperatriz HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306777.ts
+#EXTINF:-1 tvg-name="Globo TV Paraiba HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Nordeste",Globo TV Paraiba HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306780.ts
+#EXTINF:-1 tvg-name="Globo Rede Bahia TV Santa Cruz HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Nordeste",Globo Rede Bahia TV Santa Cruz HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306783.ts
+#EXTINF:-1 tvg-name="Globo TV Sao Francisco HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Nordeste",Globo TV Sao Francisco HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306786.ts
+#EXTINF:-1 tvg-name="Brasileirao Serie A HD" tvg-logo="" group-title="Canais | Prime Video",Brasileirao Serie A HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/317064.ts
+#EXTINF:-1 tvg-name="X Sports HD" tvg-logo="" group-title="Canais | Esportes",X Sports HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/340450.ts
+#EXTINF:-1 tvg-name="RecordTV Ribeirao HD" tvg-logo="http://tjtor8411.com/static/logos/canais/record.png" group-title="Canais | RecordTV",RecordTV Ribeirao HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/350009.ts
+#EXTINF:-1 tvg-name="RecordTV Piaui A10 HD" tvg-logo="http://tjtor8411.com/static/logos/canais/record.png" group-title="Canais | RecordTV",RecordTV Piaui A10 HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/350012.ts
+#EXTINF:-1 tvg-name="RecordTV Leste HD" tvg-logo="http://tjtor8411.com/static/logos/canais/record.png" group-title="Canais | RecordTV",RecordTV Leste HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/350058.ts
+#EXTINF:-1 tvg-name="RecordTV Roraima HD" tvg-logo="http://tjtor8411.com/static/logos/canais/record.png" group-title="Canais | RecordTV",RecordTV Roraima HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/350061.ts
+#EXTINF:-1 tvg-name="RecordTV Paulista HD" tvg-logo="http://tjtor8411.com/static/logos/canais/record.png" group-title="Canais | RecordTV",RecordTV Paulista HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/350064.ts
+#EXTINF:-1 tvg-name="RecordTV Paraiba TV Correio HD" tvg-logo="http://tjtor8411.com/static/logos/canais/record.png" group-title="Canais | RecordTV",RecordTV Paraiba TV Correio HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/350067.ts
+#EXTINF:-1 tvg-name="RecordTV Manaus HD" tvg-logo="http://tjtor8411.com/static/logos/canais/record.png" group-title="Canais | RecordTV",RecordTV Manaus HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/350070.ts
+#EXTINF:-1 tvg-name="RecordTV Guararapes HD" tvg-logo="http://tjtor8411.com/static/logos/canais/record.png" group-title="Canais | RecordTV",RecordTV Guararapes HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/350073.ts
+#EXTINF:-1 tvg-name="Globo TV Alvorada do Sul HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo TV Alvorada do Sul HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/350079.ts
+#EXTINF:-1 tvg-name="Globo Rede Amazonas Macapa HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Norte",Globo Rede Amazonas Macapa HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/350082.ts
+#EXTINF:-1 tvg-name="Globo Rede Amazonas Arquemes HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Norte",Globo Rede Amazonas Arquemes HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/350085.ts
+#EXTINF:-1 tvg-name="Globo Inter TV Costa Branca HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Nordeste",Globo Inter TV Costa Branca HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/350088.ts
+#EXTINF:-1 tvg-name="RecordTV Thathi Campinas HD" tvg-logo="http://tjtor8411.com/static/logos/canais/record.png" group-title="Canais | RecordTV",RecordTV Thathi Campinas HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/350091.ts
+#EXTINF:-1 tvg-name="SBT VTV Santos Campinas HD" tvg-logo="http://tjtor8411.com/images/cdeca592bbb91b4c697cb75440c2bf83.png" group-title="Canais | Abertos",SBT VTV Santos Campinas HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/350094.ts
+#EXTINF:-1 tvg-name="SBT Thathi Vale HD" tvg-logo="http://tjtor8411.com/images/cdeca592bbb91b4c697cb75440c2bf83.png" group-title="Canais | Abertos",SBT Thathi Vale HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/350097.ts
+#EXTINF:-1 tvg-name="Barretos 2026 HD" tvg-logo="" group-title="Canais | PPV",Barretos 2026 HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/393723.ts
