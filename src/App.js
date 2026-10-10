@@ -1,50 +1,99 @@
 import { useEffect, useState } from "react";
+
 import "./App.css";
-import Player from "./Player"; // Importa o player de IPTV
+
+import Player from "./Player";
 
 function App() {
   const [groups, setGroups] = useState({});
-  const [currentStream, setCurrentStream] = useState(""); // Guarda a URL do canal ativo
+  const [currentStream, setCurrentStream] = useState("");
 
   useEffect(() => {
-    fetch("/playlists/CanaisBR02_FHD.m3u8")
-      .then((res) => res.text())
+    fetch("/playlists/smartv.m3u")
+      .then((res) => {
+        if (!res.ok) {
+          throw new Error(`Erro HTTP: ${res.status}`);
+        }
+
+        return res.text();
+      })
       .then((text) => {
-        const lines = text.split("\n").map((line) => line.trim());
+        const lines = text
+          .split("\n")
+          .map((line) => line.trim())
+          .filter((line) => line !== "");
+
         const parsedGroups = {};
 
         for (let i = 0; i < lines.length; i++) {
           if (lines[i].startsWith("#EXTINF")) {
             const details = lines[i];
-            const name = details.split(",")[1];
+
+            const nameParts = details.split(",");
+            const name =
+              nameParts.length > 1
+                ? nameParts.slice(1).join(",").trim()
+                : "Canal sem nome";
+
             const url = lines[i + 1];
+
+            if (!url || url.startsWith("#")) {
+              continue;
+            }
 
             const groupMatch = details.match(/group-title="([^"]+)"/);
             const logoMatch = details.match(/tvg-logo="([^"]+)"/);
-            const group = groupMatch ? groupMatch[1] : "Sem Categoria";
-            const logo = logoMatch ? logoMatch[1] : "https://via.placeholder.com/100";
+
+            const group = groupMatch
+              ? groupMatch[1]
+              : "Sem Categoria";
+
+            const logo = logoMatch
+              ? logoMatch[1]
+              : "https://via.placeholder.com/100";
 
             if (!parsedGroups[group]) {
               parsedGroups[group] = [];
             }
 
-            parsedGroups[group].push({ name, url, logo });
+            parsedGroups[group].push({
+              name,
+              url,
+              logo,
+            });
           }
         }
 
         setGroups(parsedGroups);
 
-        // Definir o primeiro canal automaticamente como o currentStream
-        const firstChannel = parsedGroups[Object.keys(parsedGroups)[0]][0];
-        setCurrentStream(firstChannel.url); // Primeira URL
+        // Seleciona automaticamente o primeiro canal
+        const groupNames = Object.keys(parsedGroups);
+
+        if (groupNames.length > 0) {
+          const firstChannel = parsedGroups[groupNames[0]][0];
+
+          if (firstChannel) {
+            setCurrentStream(firstChannel.url);
+          }
+        }
       })
-      .catch((err) => console.error("Erro ao carregar a playlist:", err));
+      .catch((err) => {
+        console.error(
+          "Erro ao carregar a playlist smartv.m3u:",
+          err
+        );
+      });
   }, []);
 
   return (
     <div className="container">
       {/* Player em tela cheia */}
-      <Player key={currentStream} src={currentStream} />
+      {currentStream && (
+        <Player
+          key={currentStream}
+          src={currentStream}
+        />
+      )}
 
       {/* Navigation Drawer - Lista de Canais */}
       <div className="channel-list-drawer">
@@ -56,9 +105,13 @@ function App() {
                   <div
                     key={idx}
                     className="channel-card"
-                    onClick={() => setCurrentStream(item.url)} // Altera o player ao clicar
+                    onClick={() => setCurrentStream(item.url)}
                   >
-                    <img src={item.logo} alt={item.name} />
+                    <img
+                      src={item.logo}
+                      alt={item.name}
+                    />
+
                     <p>{item.name}</p>
                   </div>
                 ))}
